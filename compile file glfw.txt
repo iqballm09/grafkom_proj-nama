@@ -1,0 +1,3 @@
+gcc "source code name".c -o "file name" -Wall -lGL -lGLU -lglut -lGLEW -lglfw -lX11 -lXxf86vm -lXrandr -lm -lpthread -lXi -ldl -lXinerama -lXcursor
+
+g++ "source filename".cpp -o "filename" -std=c++11 -Wall -lGL -lGLU -lglut -lGLEW -lglfw -lX11 -lXxf86vm -lXrandr -lm -lpthread -lXi -ldl -lXinerama -lXcursor
